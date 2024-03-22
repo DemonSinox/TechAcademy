@@ -1,0 +1,102 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    width: 100%;
+    font-family: "Pixelify Sans", sans-serif;
+    width: auto;
+    margin: 10px 10px 10px center;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.7);
+    border-radius: 10px;
+
+
+}
+.centro{
+    width: 1000px;
+    margin: 10px 10px 10px center;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.418);
+    border-radius: 10px;
+    
+}
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+}
+h2 {
+    text-align: center;
+    
+}
+body{
+    font-family: "Pixelify Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    color: wheat;
+    font-size: 16px;
+    background-image: url(../Trending\ topics\ on\ Tumblr.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+section {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+main{
+    width: 1000px;
+    padding: 10px;
+    margin: 10px 10px 10px 140px
+}
+p{
+    padding: 5px;
+}
+.apresentação{
+    width: 1000px;
+    margin: 10px 10px 10px center;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.418);
+    border-radius: 10px;
+}
+.grid{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+}
+.grid .caixa{
+    border-radius: 10px;
+    margin: 10px;
+}
+.grid .caixa:hover{
+    background-color: rgba(36, 3, 3, 0.712);
+    border-radius: 10px;
+    margin: 10px;
+    transition: 0.7s;
+}
+.grid .caixa img{
+    height: 350px;
+    width: 100%;
+    border-radius: 10px 10px 0 0;
+}
+.grid .caixa p{
+    margin: 10px;
+    text-align: center;
+}
+#trilhasonora {
+    color:red;
+    background-color: gray;
+    width:250px;
+    margin:50px 380px;
+    height: 35px;
+    border-radius: 10px 10px 10px 10px;
+    opacity: 0.6;
+    box-shadow: 1px 1px 4px 2px;
+    transition: all .55 ease;
+}
+#trilhasonora:hover{
+    transition: all .55 ease;
+    font-size: 28px;
+    width: 280px;
+    padding-left: 10px;
+}
