@@ -1,13 +1,6 @@
 # Tech Academy
 
-## Jogo "GoblinDead"
+## Jogo "Goblin Reaper"
 
-- Foi adcionado animações de inimigo 
-- mecanica de avançar quando atacar para o personagem principal 
-- fundo provisorio 
-- Nome sujeito a mudanças 
-
-## Site do jogo
-
-- Estrutura HTML em finalização
-- Adicionado CSS 
+-Site finalizado
+-jogo finalizado
